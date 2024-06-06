@@ -88,5 +88,3 @@ This project is a blockchain-based document verification system built with Flask
 - Secure Communication: The application uses HTTPS to ensure secure communication.
 - User Authentication: Users must register and log in to access the application.
 
-## License
-   This project is licensed under the MIT License.
