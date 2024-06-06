@@ -83,3 +83,10 @@ This project is a blockchain-based document verification system built with Flask
 
 - test/: Directory for smart contract tests.
 
+## Security Features
+- Encryption: All sensitive data is encrypted using the cryptography library.
+- Secure Communication: The application uses HTTPS to ensure secure communication.
+- User Authentication: Users must register and log in to access the application.
+
+## License
+   This project is licensed under the MIT License.
