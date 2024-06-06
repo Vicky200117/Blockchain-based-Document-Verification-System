@@ -47,24 +47,18 @@ This project is a blockchain-based document verification system built with Flask
     ```
 ## Usage
 1.Open the application:
-Navigate to https://127.0.0.1:5000 in your web browser.
+  Navigate to https://127.0.0.1:5000 in your web browser.
 
-Register and login:
+2.Register and login:
+  -Create a new account.
+  -Log in using your credentials.
 
-Create a new account.
-Log in using your credentials.
-Upload a document:
+3.Upload a document:
+  -Navigate to the upload page.
+  -Upload a document by providing the necessary details.
 
-Navigate to the upload page.
-Upload a document by providing the necessary details.
-Verify a document:
+4.Verify a document:
+  -Navigate to the verify page.
+  -Enter the document hash to verify its existence on the blockchain.
 
-Navigate to the verify page.
-Enter the document hash to verify its existence on the blockchain.
-
-## Contributing
-Contributions are welcome! Please fork this repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
 
