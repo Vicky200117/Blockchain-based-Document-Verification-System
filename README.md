@@ -29,14 +29,14 @@ This project is a blockchain-based document verification system built with Flask
    pip install -r requirements.txt
    ```
 3. **Install Truffle and Ganache:**
-     - Install Truffle globally:
+       Install Truffle globally:
    ```sh
    npm install -g truffle
    ```
      Download and install Ganache from the official website.
 4. **Compile and deploy the smart contract:**
-        - Start Ganache
-        - In the backend directory, run:
+          Start Ganache
+          In the backend directory, run:
    ```sh
    truffle migrate --reset
    ```
@@ -60,5 +60,16 @@ This project is a blockchain-based document verification system built with Flask
 4.Verify a document:
   - Navigate to the verify page.
   - Enter the document hash to verify its existence on the blockchain.
+
+## Project Structure
+- backend/: Contains the Flask application and smart contract interaction logic.
+- app.py: Main Flask application file.
+- contracts/: Directory for smart contract files.
+- migrations/: Directory for Truffle migrations.
+- generate_key.py: Script to generate an encryption key.
+- styles.css: CSS file for styling the web pages.
+- index.html: Main HTML file for the homepage.
+- upload.html: HTML file for the upload page.
+- verify.html: HTML file for the verify page.
 
 
