@@ -72,5 +72,14 @@ This project is a blockchain-based document verification system built with Flask
   - index.html: Main HTML file for the homepage.
   - upload.html: HTML file for the upload page.
   - verify.html: HTML file for the verify page.
+    
+- build/: Contains the compiled smart contract files.
+  
+- contracts/: Contains the Solidity smart contract source files.
+  - DocumentVerification.sol: Main smart contract file.
 
+- migrations/: Contains Truffle migration scripts.
+  - '1_deploy_contracts.js': Migration script to deploy the smart contract.
+
+- test/: Directory for smart contract tests.
 
