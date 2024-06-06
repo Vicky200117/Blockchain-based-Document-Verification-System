@@ -63,13 +63,14 @@ This project is a blockchain-based document verification system built with Flask
 
 ## Project Structure
 - backend/: Contains the Flask application and smart contract interaction logic.
-- app.py: Main Flask application file.
-- contracts/: Directory for smart contract files.
-- migrations/: Directory for Truffle migrations.
-- generate_key.py: Script to generate an encryption key.
-- styles.css: CSS file for styling the web pages.
-- index.html: Main HTML file for the homepage.
-- upload.html: HTML file for the upload page.
-- verify.html: HTML file for the verify page.
+  
+  - app.py: Main Flask application file.
+  - contracts/: Directory for smart contract files.
+  - migrations/: Directory for Truffle migrations.
+  - generate_key.py: Script to generate an encryption key.
+  - styles.css: CSS file for styling the web pages.
+  - index.html: Main HTML file for the homepage.
+  - upload.html: HTML file for the upload page.
+  - verify.html: HTML file for the verify page.
 
 
