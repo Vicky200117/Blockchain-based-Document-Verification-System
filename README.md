@@ -29,7 +29,7 @@ This project is a blockchain-based document verification system built with Flask
    pip install -r requirements.txt
    ```
 3. ** Install Truffle and Ganache:
-   Install Truffle globally:
+      Install Truffle globally:
    ```sh
    npm install -g truffle
    ```
@@ -50,15 +50,15 @@ This project is a blockchain-based document verification system built with Flask
   Navigate to https://127.0.0.1:5000 in your web browser.
 
 2.Register and login:
-  -Create a new account.
-  -Log in using your credentials.
+  - Create a new account.
+  - Log in using your credentials.
 
 3.Upload a document:
-  -Navigate to the upload page.
-  -Upload a document by providing the necessary details.
+  - Navigate to the upload page.
+  - Upload a document by providing the necessary details.
 
 4.Verify a document:
-  -Navigate to the verify page.
-  -Enter the document hash to verify its existence on the blockchain.
+  - Navigate to the verify page.
+  - Enter the document hash to verify its existence on the blockchain.
 
 
