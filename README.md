@@ -33,10 +33,10 @@ This project is a blockchain-based document verification system built with Flask
    ```sh
    npm install -g truffle
    ```
-   Download and install Ganache from the official website.
-4.**Compile and deploy the smart contract:**
-  Start Ganache.
-  In the backend directory, run:
+     Download and install Ganache from the official website.
+4. **Compile and deploy the smart contract:**
+     Start Ganache.
+    In the backend directory, run:
   ```sh
   truffle migrate --reset
   ```
